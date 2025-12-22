@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sumairrr21" target="blank"><img src="https://img.shields.io/twitter/follow/sumairrr21?logo=twitter&style=for-the-badge" alt="sumairrr21" /></a> </p>
 
-- 🔭 I’m currently working on **MailZip**
+-  I’m currently working on **MailZip**
 
-- 🌱 I’m currently learning **MERN Stack** and **Agentic AI**
+-  I’m currently learning **MERN Stack** and **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-eosin-rho.vercel.app/](https://personal-portfolio-eosin-rho.vercel.app/)
+-  All of my projects are available at [https://personal-portfolio-eosin-rho.vercel.app/](https://personal-portfolio-eosin-rho.vercel.app/)
 
-- 💬 Ask me about **React, OpenAI SDK**
+-  Ask me about **React, OpenAI SDK**
 
-- 📫 How to reach me **sumairrrkhan21@gmail.com**
+-  How to reach me **sumairrrkhan21@gmail.com**
 
 - ⚡ Fun fact **Coffee + late-night coding = my favorite combo**
 
