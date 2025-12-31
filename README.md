@@ -25,7 +25,7 @@
 ✔ **AI & Machine Learning Enthusiast**  
 ✔ **Cloud & Serverless Computing Expert**  
 
-📌 **[🌎 Visit My Portfolio](https://mohsinraza23.github.io/)**  
+📌 **[🌎 Visit My Portfolio](https://personal-portfolio-eosin-rho.vercel.app/)**  
 
 ---
 
