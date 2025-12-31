@@ -51,7 +51,7 @@
 
 ##  **My Contributions**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=github-light" width="100%" alt="GitHub Activity Graph">
 </p>
 
 ---
