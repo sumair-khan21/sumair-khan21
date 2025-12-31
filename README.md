@@ -37,9 +37,7 @@
   <a href="https://www.linkedin.com/in/sumairrr/">
     <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="sumairrrkhan21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ 
 </p>
 
 ---
