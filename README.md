@@ -31,13 +31,13 @@
 
 ## 🔥 **Let's Connect**
 <p align="center">
-  <a href="https://github.com/mohsinraza23">
+  <a href="https://github.com/sumair-khan21">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/mohsin-raza-a514392b6">
+  <a href="https://www.linkedin.com/in/sumairrr/">
     <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:mr934586@gmail.com">
+  <a href="sumairrrkhan21@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -46,7 +46,7 @@
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,docker,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,aws,vercel" />
 </p>
 
 
@@ -59,10 +59,10 @@
 ---
 
 ## 🔥 **Top Projects**
-🚀 [AI-Powered Resume Builder](https://github.com/mohsinraza23/resume-builder)  
-🌍 [Web 3.0 DApp](https://github.com/mohsinraza23/web3-dapp)  
-💡 [Portfolio Website](https://github.com/mohsinraza23/portfolio)  
-🔥 [Next.js Blog](https://github.com/mohsinraza23/nextjs-blog)  
+🚀 [Physical-AI-Humanoid-Robotics](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)  
+🌍 [SMIT Projects](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/)  
+💡 [Portfolio Website](https://personal-portfolio-eosin-rho.vercel.app/)  
+🔥 [Next.js Blog](https://dynamic-blog-henna.vercel.app/)  
 
 ---
 
