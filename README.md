@@ -1,72 +1,67 @@
-<!-- 🚀 Dark & Stylish Animated Header -->
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
-  <span style="color:#ff4500;">⚡ Sumair Khan ⚡</span>
-</h1>
-<h3 align="center" style="color:#f7b42c;">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
+# Sumair Khan
+### Full Stack Developer | AI Engineer | Web 3.0 Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=333333&width=500&lines=Full+Stack+Development;AI+%26+Machine+Learning;Web+3.0+Solutions;Cloud+Computing" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
+## Profile Summary
+Dedicated Developer focused on building scalable web applications and exploring the intersection of AI and Blockchain. I specialize in creating high-performance user interfaces and robust backend systems.
+
+* **Primary Stack:** TypeScript, Next.js, and Tailwind CSS.
+* **Specialization:** AI Integration & Cloud-Native Architectures.
+* **Portfolio:** [personal-portfolio-eosin-rho.vercel.app](https://personal-portfolio-eosin-rho.vercel.app/)
+
+---
+
+## Technical Skills
+
+**Frontend & Backend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.dot.js&logoColor=white)
+
+**Tools & Cloud**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![AWS](https://img.shields.logo/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## GitHub Activity
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" 
-  width="240" height="240" 
-  style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=github-light" width="100%" alt="GitHub Activity Graph">
 </p>
 
 ---
 
-## 🎭 **Who Am I?**
-🖤 **A Developer who turns dreams into code.**  
-✔ **Master of TypeScript, Next.js, and Tailwind**  
-✔ **AI & Machine Learning Enthusiast**  
-✔ **Cloud & Serverless Computing Expert**  
+## Key Projects
 
-📌 **[🌎 Visit My Portfolio](https://personal-portfolio-eosin-rho.vercel.app/)**  
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **Physical AI Robotics** | Humanoid robotics integration with AI. | [View Project](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/) |
+| **Next.js Blog** | A dynamic, high-performance blogging platform. | [View Project](https://dynamic-blog-henna.vercel.app/) |
+| **SMIT Assignments** | Comprehensive collection of web development tasks. | [View Project](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/) |
 
 ---
 
-## 🔥 **Let's Connect**
-<p align="center">
+## Connect with Me
+<p align="left">
   <a href="https://github.com/sumair-khan21">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sumairrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="sumairrrkhan21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:sumairrrkhan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🛠️ **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,aws,vercel" />
-</p>
-
-
-
-## 🚀 **My Contributions**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" alt="GitHub Activity Graph">
-</p>
-
----
-
-## 🔥 **Top Projects**
-🚀 [Physical-AI-Humanoid-Robotics](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)  
-🌍 [SMIT Projects](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/)  
-💡 [Portfolio Website](https://personal-portfolio-eosin-rho.vercel.app/)  
-🔥 [Next.js Blog](https://dynamic-blog-henna.vercel.app/)  
-
----
-
-## 🎭 **Fun Fact**
-_"Great developers solve problems they were unqualified for until they actually did it!"_  
-
-🔥 **"Code it. Break it. Fix it. Learn from it. Repeat!"** 🔥  
