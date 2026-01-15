@@ -3,13 +3,18 @@
 </h1>
 <h3 align="center" style="color:#f7b42c;">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
 
+---
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-12-320_512.gif" 
-  width="600" 
-  style="border-radius:8px; border:1px solid #ff4500; box-shadow: 0px 0px 20px rgba(255, 69, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/andymitchell73/andymitchell73/main/assets/cyberpunk.gif" 
+  alt="Coding Animation" 
+  width="100%" 
+  style="border-radius:10px; border: 2px solid #ff4500;" />
 </p>
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
+</p>
 
 
 ---
