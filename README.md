@@ -1,56 +1,35 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
-  <span style="color:#ff4500;"> Sumair Khan </span>
+<!-- 🚀 Professional Animated Header -->
+<h1 align="center" style="font-family: Poppins, sans-serif; font-weight: bold;">
+  <span style="color:#ff4500;">Sumair Khan</span>
 </h1>
-<h3 align="center" style="color:#f7b42c;">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
+
+<h3 align="center" style="color:#f7b42c;">
+Full Stack Developer | AI Engineer | Web 3.0 Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github.com/mhm-faiz/mhm-faiz/blob/main/assets/code.gif?raw=true" width="100%" style="border-radius:10px;" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
-</p>
-
----
-
-## ⚡ About Me
-🖤 **A Developer who turns dreams into code.** I specialize in building high-performance web applications and exploring the intersection of **AI** and **Robotics**.
-
-- 🔭 **Currently working on:** [Physical AI Humanoid Robotics](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)
-- 💻 **Expertise:** Master of TypeScript, Next.js, and Tailwind CSS
-- 🧠 **Interests:** AI, Machine Learning, and Decentralized Tech (Web 3.0)
-- ☁️ **Cloud:** Expert in Serverless Computing (Vercel, AWS)
-
-🔗 **[Visit My Portfolio](https://personal-portfolio-eosin-rho.vercel.app/)** ---
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,aws,vercel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff4500&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Engineer;Web+3.0+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- 💻 Professional Coding GIF -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumair-khan21&show_icons=true&theme=radical&hide_border=true" alt="Sumair's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x0M3V5d2E2b2R5MW9wY3k4aWZ2NmRvd2xjYzZ0aDZlZ2F4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
+       width="420" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Physical AI Robotics** | Humanoid robot control systems using AI. | [View Project](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/) |
-| **Next.js Dynamic Blog** | A high-performance blog with optimized SEO. | [View Project](https://dynamic-blog-henna.vercel.app/) |
-| **Portfolio Website** | Modern, responsive developer portfolio. | [View Project](https://personal-portfolio-eosin-rho.vercel.app/) |
+## 👋 About Me
+I’m a **Full Stack Developer and AI Engineer** passionate about building scalable web applications and intelligent systems.  
+I enjoy working with **modern frameworks, cloud technologies, and AI-driven solutions**.
+
+🌐 **Portfolio:** [View Website](https://personal-portfolio-eosin-rho.vercel.app/)
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/sumair-khan21">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
@@ -60,6 +39,30 @@
   </a>
 </p>
 
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <em>"Great developers solve problems they were unqualified for until they actually did it!"</em>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,mongodb,linux,aws,vercel" />
 </p>
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔹 [Physical AI Humanoid Robotics](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)
+- 🔹 [SMIT Assignments](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/)
+- 🔹 [Portfolio Website](https://personal-portfolio-eosin-rho.vercel.app/)
+- 🔹 [Next.js Blog](https://dynamic-blog-henna.vercel.app/)
+
+---
+
+## ✨ Philosophy
+> *“Learn fast. Build smart. Improve continuously.”*
+
