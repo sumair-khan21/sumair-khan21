@@ -15,9 +15,10 @@ Full Stack Developer | AI Engineer | Web 3.0 Enthusiast
 
 <!-- 💻 Professional Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x0M3V5d2E2b2R5MW9wY3k4aWZ2NmRvd2xjYzZ0aDZlZ2F4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"
-       width="420" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="0" height="0"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750057-9d5d2e57-bc45-4b6f-bb1a-0a3d8d8b4b79.gif" width="420" />
 </p>
+
 
 ---
 
