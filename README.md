@@ -1,32 +1,36 @@
-<!-- 🚀 Professional Animated Header -->
-<h1 align="center" style="font-family: Poppins, sans-serif; font-weight: bold;">
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">
   <span style="color:#ff4500;">Sumair Khan</span>
 </h1>
 
-<h3 align="center" style="color:#f7b42c;">
-Full Stack Developer | AI Engineer | Web 3.0 Enthusiast
+<h3 align="center">
+  Full Stack Developer · AI Engineer · Web 3.0 Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff4500&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Engineer;Web+3.0+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Designing+AI-Driven+Solutions;Learning+%26+Improving+Every+Day" />
 </p>
 
 ---
 
-<!-- 💻 Professional Coding GIF -->
+<!-- ===================== PROFESSIONAL GIF ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="0" height="0"/>
   <img src="https://user-images.githubusercontent.com/74038190/212750057-9d5d2e57-bc45-4b6f-bb1a-0a3d8d8b4b79.gif" width="420" />
 </p>
-
 
 ---
 
 ## 👋 About Me
-I’m a **Full Stack Developer and AI Engineer** passionate about building scalable web applications and intelligent systems.  
-I enjoy working with **modern frameworks, cloud technologies, and AI-driven solutions**.
+I’m a **Full Stack Developer and AI Engineer** focused on building **clean, scalable, and production-ready applications**.  
+I enjoy working on **hackathons, real-world projects, and AI-powered systems** using modern technologies.
 
-🌐 **Portfolio:** [View Website](https://personal-portfolio-eosin-rho.vercel.app/)
+- 💻 Strong in **Next.js, TypeScript, Node.js**
+- 🤖 Interested in **AI Agents & Intelligent Systems**
+- ☁️ Experience with **Cloud & Serverless platforms**
+- 🧠 Always learning, always improving
+
+🌐 **Portfolio:**  
+👉 https://personal-portfolio-eosin-rho.vercel.app/
 
 ---
 
@@ -44,8 +48,23 @@ I enjoy working with **modern frameworks, cloud technologies, and AI-driven solu
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,nodejs,python,mongodb,linux,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mongodb,git,github,linux,aws,vercel" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+- **Physical AI Humanoid Robotics**  
+  👉 https://physical-ai-humanoid-robotics-blond-eta.vercel.app/
+
+- **SMIT Assignments & Practice Projects**  
+  👉 https://sumair-khan21.github.io/SMIT-ASSIGNMENT/
+
+- **Personal Portfolio**  
+  👉 https://personal-portfolio-eosin-rho.vercel.app/
+
+- **Next.js Dynamic Blog**  
+  👉 https://dynamic-blog-henna.vercel.app/
 
 ---
 
@@ -56,14 +75,11 @@ I enjoy working with **modern frameworks, cloud technologies, and AI-driven solu
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 [Physical AI Humanoid Robotics](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)
-- 🔹 [SMIT Assignments](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/)
-- 🔹 [Portfolio Website](https://personal-portfolio-eosin-rho.vercel.app/)
-- 🔹 [Next.js Blog](https://dynamic-blog-henna.vercel.app/)
+## 🧠 What I Believe
+> *Good software is built with clarity, consistency, and continuous learning.*
+
+**Code. Test. Break. Fix. Learn. Repeat.**
 
 ---
 
-## ✨ Philosophy
-> *“Learn fast. Build smart. Improve continuously.”*
-
+⭐ *If you like my work, feel free to explore my repositories and connect with me.*
