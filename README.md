@@ -14,8 +14,18 @@
 ---
 
 <!-- ===================== PROFESSIONAL GIF ===================== -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750057-9d5d2e57-bc45-4b6f-bb1a-0a3d8d8b4b79.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif"
+       width="420" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
 ---
