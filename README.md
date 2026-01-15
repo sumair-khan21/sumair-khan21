@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#f7b42c;">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Graphics/Computer.gif?raw=true" width="600" style="border-radius:10px;" />
+  <img src="https://github.com/mhm-faiz/mhm-faiz/blob/main/assets/code.gif?raw=true" width="100%" style="border-radius:10px;" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 | :--- | :--- | :--- |
 | **Physical AI Robotics** | Humanoid robot control systems using AI. | [View Project](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/) |
 | **Next.js Dynamic Blog** | A high-performance blog with optimized SEO. | [View Project](https://dynamic-blog-henna.vercel.app/) |
-| **SMIT Assignments** | Collection of professional web development tasks. | [View Project](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/) |
+| **Portfolio Website** | Modern, responsive developer portfolio. | [View Project](https://personal-portfolio-eosin-rho.vercel.app/) |
 
 ---
 
