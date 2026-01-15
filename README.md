@@ -10,9 +10,6 @@
 </p>
 ---
 
-<p align="center">
-  <img src="https://github.com/sumair-khan21.png" width="200" height="200" style="border-radius:50%; border:4px solid #ff4500;" />
-</p>
 
 ---
 
