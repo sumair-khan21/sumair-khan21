@@ -33,10 +33,10 @@ I’m a **Full Stack Developer and AI Engineer** focused on building **clean, sc
 
 I enjoy working on **hackathons, real-world projects, and AI-powered systems**, using modern frameworks and cloud platforms.
 
-- ⚙️ Strong in **Next.js, TypeScript, Node.js**
-- 🤖 Interested in **AI Agents & Intelligent Systems**
-- ☁️ Experience with **Cloud & Serverless platforms**
-- 📈 Always learning, always improving
+-  Strong in **Next.js, TypeScript, Node.js**
+-  Interested in **AI Agents & Intelligent Systems**
+-  Experience with **Cloud & Serverless platforms**
+-  Always learning, always improving
 
  **Portfolio:**  
  https://personal-portfolio-eosin-rho.vercel.app/
