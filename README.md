@@ -43,7 +43,7 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://github.com/sumair-khan21">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
@@ -55,7 +55,7 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mongodb,git,github,linux,aws,vercel" />
 </p>
