@@ -28,7 +28,7 @@ Full Stack Developer · AI Engineer · Web 3.0 Enthusiast
 
 ---
 
-## 👋 About Me
+##  About Me
 I’m a **Full Stack Developer and AI Engineer** focused on building **clean, scalable, and production-ready applications**.
 
 I enjoy working on **hackathons, real-world projects, and AI-powered systems**, using modern frameworks and cloud platforms.
@@ -38,8 +38,8 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 - ☁️ Experience with **Cloud & Serverless platforms**
 - 📈 Always learning, always improving
 
-🌐 **Portfolio:**  
-👉 https://personal-portfolio-eosin-rho.vercel.app/
+ **Portfolio:**  
+ https://personal-portfolio-eosin-rho.vercel.app/
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **Physical AI Humanoid Robotics**  
   https://physical-ai-humanoid-robotics-blond-eta.vercel.app/
 
@@ -77,14 +77,14 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 > *Good software is built with clarity, consistency, and continuous learning.*
 
 **Code. Build. Improve. Repeat.**
