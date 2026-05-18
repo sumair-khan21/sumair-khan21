@@ -39,7 +39,7 @@ I enjoy working on **hackathons, real-world projects, and AI-powered systems**, 
 -  Always learning, always improving
 
  **Portfolio:**  
- https://personal-portfolio-eosin-rho.vercel.app/
+ https://devsumair.com/
 
 ---
 
