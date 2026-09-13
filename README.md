@@ -1,94 +1,61 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Sumair Khan</h1>
+# Sumair Khan
 
-<h3 align="center">
-Full Stack Developer · AI Engineer · Web 3.0 Enthusiast
-</h3>
+Full Stack Developer and AI Engineer at [TechVates](https://techvates.co/) · Next.js, TypeScript, and AI systems · Pakistan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Designing+AI-Driven+Systems;Focused+on+Clean+%26+Maintainable+Code" />
-</p>
+I build production-ready web applications and AI-powered systems for businesses that need software to actually work under real users. Most of my work is full-stack SaaS platforms, AI agents, and automation workflows rather than demos.
 
-<!-- ===================== PROFESSIONAL GIF ===================== -->
-<!-- <p align="center">
-  <img src="https://camo.githubusercontent.com/c656f151480299b7d8939e2814a45232d18e15656e313a6668cd485d5918f0b7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966"
-       width="690" height="370"/>
-</p>
+Coding since 2022. 15+ projects shipped for clients across Pakistan, Nigeria, the US, and beyond.
 
+## What I work on
 
+**AI Agents and Intelligent Systems**
+Custom LLM integrations using OpenAI and Claude APIs, RAG pipelines, LangChain, and n8n automation. Document processing, chat assistants, and the connective logic that makes AI useful inside a real product instead of a chat window.
 
+**Full Stack Web Applications**
+SaaS platforms, e-commerce systems, dashboards, and multi-tenant apps built on Next.js, TypeScript, and Node.js. Authentication, payments, webhooks, and the business logic that sits underneath a clean UI.
 
+**Prototype to Production**
+Taking MVPs, half-finished builds, and AI-generated codebases and turning them into software that is stable, scalable, and maintainable.
 
+## Stack
 
+**Frontend** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
+**Backend** Node.js · Express · Python · FastAPI · Laravel
+**Databases** PostgreSQL · MongoDB · Supabase · SQLite · Sanity
+**AI and Automation** OpenAI API · Claude API · LangChain · RAG pipelines · n8n
+**Infrastructure** Vercel · Docker · Git · CI/CD · Linux · AWS
+**Integrations** Stripe · Clerk · OAuth · Nodemailer · Webhooks
 
+## Background
 
+I started with HTML, CSS, and JavaScript in 2022, moved into React and Next.js frontend work in 2023, and by 2024 was delivering complete full-stack applications for clients in multiple regions. Since 2025 my focus has shifted toward AI systems and SaaS platforms.
 
+Today I work at TechVates, an AI-native software studio in Karachi, building custom software and AI automation for businesses. Alongside that I am completing a BS in Computer Science.
 
- -->
+## Selected projects
 
----
+- **Physical AI Humanoid Robotics** — AI-focused educational platform built with Next.js. [Live](https://physical-ai-humanoid-robotics-blond-eta.vercel.app/)
+- **Next.js Dynamic Blog** — Content-driven blog with dynamic routing and CMS integration. [Live](https://dynamic-blog-henna.vercel.app/)
+- **Personal Portfolio** — Earlier portfolio build on Next.js and Tailwind. [Live](https://personal-portfolio-eosin-rho.vercel.app/)
+- **SMIT Assignments** — Practice projects and coursework from my early training. [Live](https://sumair-khan21.github.io/SMIT-ASSIGNMENT/)
 
-##  About Me
-I’m a **Full Stack Developer and AI Engineer** focused on building **clean, scalable, and production-ready applications**.
+Case studies and delivered client work are on my portfolio at [devsumair.com](https://www.devsumair.com/).
 
-I enjoy working on **hackathons, real-world projects, and AI-powered systems**, using modern frameworks and cloud platforms.
+## A note on the repositories here
 
--  Strong in **Next.js, TypeScript, Node.js**
--  Interested in **AI Agents & Intelligent Systems**
--  Experience with **Cloud & Serverless platforms**
--  Always learning, always improving
+A large part of my work lives in private client repositories, so the public list on this profile is smaller than the volume of work behind it. Client code is not mine to publish. What you see here is the public slice, alongside a contribution history that reflects the actual pace of the private work.
 
- **Portfolio:**  
- https://devsumair.com/
+## Currently
 
----
+Building AI agents and SaaS platforms at TechVates, and open to freelance and contract work involving Next.js applications, AI integrations, and prototype rescue projects.
 
-##  Connect With Me
-<p align="center">
-  <a href="https://github.com/sumair-khan21">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sumairrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+## Elsewhere
 
----
-
-##  Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mongodb,git,github,linux,aws,vercel" />
-</p>
+- Website [devsumair.com](https://www.devsumair.com/)
+- LinkedIn [in/sumairrr](https://www.linkedin.com/in/sumairrr/)
+- X [@sumairrr21](https://x.com/sumairrr21)
+- Email [devsumair@gmail.com](mailto:devsumair@gmail.com)
 
 ---
 
-##  Featured Projects
-- **Physical AI Humanoid Robotics**  
-  https://physical-ai-humanoid-robotics-blond-eta.vercel.app/
-
-- **SMIT Assignments & Practice Projects**  
-  https://sumair-khan21.github.io/SMIT-ASSIGNMENT/
-
-- **Personal Portfolio**  
-  https://personal-portfolio-eosin-rho.vercel.app/
-
-- **Next.js Dynamic Blog**  
-  https://dynamic-blog-henna.vercel.app/
-
----
-
-##  GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumair-khan21&theme=radical" />
-</p>
-
----
-
-##  Philosophy
-> *Good software is built with clarity, consistency, and continuous learning.*
-
-**Code. Build. Improve. Repeat.**
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
+Sumair Khan is a full stack developer and AI engineer based in Pakistan, working in Next.js, TypeScript, Node.js, and AI automation.
